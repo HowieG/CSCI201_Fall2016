@@ -1,0 +1,28 @@
+Baseball::Basketball::Football::Tennis::Volleyball
+200::400::600::800::1000
+::Baseball::200::The record for most World Series titles belongs to the Big Apple. With so much prestige, you would think Jimmy Fallon would have the decency not to use this team's branded toilet paper.::New York Yankees
+::Baseball::400::If someone hits a single, a double, a triple, and a home run all in one game, he has hit for this.::Cycle
+::Baseball::600::The Boys in Blue play their home games at the Chavez Ravine. They're better known as this team.::Los Angeles Dodgers
+::Baseball::1000::This former Trojan duo from 1983 and 1984 went on to become a legendary Cardinal slugger and a Hall-of-Fame pitcher in the MLB. Unfortunately, the slugger may never reach the Hall-of-Fame.::Mark McGwire and Randy Johnson
+::Baseball::800::This perennial all-star started his MLB career playing on the same team with his father. The Kid had a beautiful swing.::Ken Griffey Jr.
+::Basketball::200::This Lakers superstar scored 60 points in his farewell game to end the 2015-16 NBA season. Shaquille O'Neal only challenged him to score 50.::Kobe Bryant
+::Basketball::600::He plays for the team up North, but this former Trojan recently went down South to win a gold medal during the 2016 Olympic Games in Rio.::DeMar DeRozan
+::Basketball::400::This Golden State Warrior may be the back-to-back reigning NBA MVP, but we all know Riley's the boss of the family.::Steph Curry
+::Basketball::800::This Spurs point guard was once married to Desperate Housewife Eva Longoria. Too bad for him, they are now divorced. As Hercule Poirot would say, sacre bleu!::Tony Parker
+::Basketball::1000::Her little brother from the school across town is the greatest Indiana Pacer ever, but this former Trojan is arguably the best woman player of all time. The WNBA was not yet formed during her playing days, what a shame.::Cheryl Miller
+::Football::600::This NFL team has the pleasure of calling America's Finest City home. For now...::San Diego Chargers
+::Football::400::The gold rush was a time of great opportunity and excitement. This NFL team was named after the year it started.::San Francisco 49ers
+::Football::200::If the offense gets tackled in its own endzone, it is called this.::Safety
+::Football::1000::Arguably the best college football game of all time, this bowl game featured #1 USC and #2 Texas in 2006. Unfortunately, the Trojans lost the national championship title to Vince Young and the Longhorns.::Rose Bowl
+::Football::800::To rehearse for the 50th Super Bowl's Halftime Show, this famous singer blessed the USC campus with her presence in January of 2016. Luckily, a bee-hive didn't follow her to campus.::Beyonce
+::Tennis::200::Growing up in Compton, this female phenom has won 22 Grand Slam titles and counting.::Serena Williams
+::Tennis::600::He has won the past two Olympic gold medals in Men's Singles for Great Britain.::Andy Murray
+::Tennis::800::This alliterative Tennis player was once married to actress Brooke Shields. He is now married to fellow Tennis superstar Steffi Graf. Talk about love!::Andre Agassi
+::Tennis::400::This Swiss man currently holds the record for most Grand Slam titles in Men's Singles (17).::Roger Federer
+::Tennis::1000::She is the only person to ever achieve the Golden Slam: winning all four Grand Slam titles (Australian Open, French Open, Wimbledon Championships, US Open) along with the Olympic gold medal in one calendar year. She did so in 1988.::Steffi Graf
+::Volleyball::600::Stanford's Kerri Walsh won three straight Olympic gold medals playing Beach Volleyball with this Long Beach State alumnus. Kerri went on to team up with former Trojan April Ross for the 2016 Olympics in Rio.::Misty May
+::Volleyball::1000::Playing for the USC Trojans, she was named the 2015 AVCA National Player of the Year.::Samantha Bricio
+::Volleyball::800::On May 8, 2016, an incomparable beach volleyball program won the inaugural NCAA Beach Volleyball Championship, further cementing this university in the sport's history.::USC
+::Volleyball::200::There are several ways to hit a volleyball. These include serve, bump, set, and this. For an opponent, it can be as painful as the name suggests.::Spike
+::Volleyball::400::This host country swept Men's Volleyball in the 2016 Summer Olympics, winning gold on the beach and indoors.::Brazil
+::FJ::USC Trojan Swimmer Katinka Hosszu brought home three gold medals and one silver from the 2016 Summer Olympics for this country.::Hungary
